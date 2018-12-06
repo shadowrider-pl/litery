@@ -1,3 +1,4 @@
+
 Zadanie rekrutacyjne
 
 Zadanie pochodzi z 1 etapu 19 Olimpiady Informatycznej https://oi.edu.pl/l/40/
@@ -10,3 +11,4 @@ Zadanie zostało wykonane dwoma sposobami w plikach /src/main/java/finbarre/lite
 
 W /src/test/java/litery/litery/FirstMethodTest.java i SecondMethodTest.java są testy dla różnych danych. Dane są pobierane z katalogu /src/test/java/litery/litery/in/ i sprawdzane są z odpowiednimi wynikami z katalogu /src/test/java/litery/litery/out/. 
 Wyniki testów są w plikach: FirstMethodTest (1) 20181206-111124.xml oraz SecondMethodTest (1) 20181206-112055.xml.
+
