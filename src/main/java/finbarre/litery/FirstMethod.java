@@ -8,7 +8,7 @@ public class FirstMethod {
 		int n = Integer.parseInt(in.get(0));
 		String u = in.get(1);
 		String w = in.get(2);
-		int result = 0;
+		long result = 0;
 
 		StringBuilder sbu = new StringBuilder(u);
 		StringBuilder sbw = new StringBuilder(w);

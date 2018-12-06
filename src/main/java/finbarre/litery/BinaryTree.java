@@ -9,7 +9,7 @@ public class BinaryTree {
 		int n = Integer.parseInt(in.get(0));
 		String u = in.get(1);
 		String w = in.get(2);
-		int result = 0;
+		long result = 0;
 		BST tree = new BST();
 
 		StringBuilder sbu = new StringBuilder(u);

@@ -12,7 +12,7 @@ public class SecondMethod {
 		char[] uChar = u.toCharArray();
 		char[] wChar = w.toCharArray();
 
-		int wynik=0;
+		long wynik=0;
 		for (int i = 0; i < n - 1; i++) {
 			for (int j = i; j < n; j++) {
 				if (uChar[i] == wChar[j]) {

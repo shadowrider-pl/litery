@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SecondMethodTest (1)" project="litery" tests="21" started="21" failures="0" errors="0" ignored="0">
+  <testsuite name="finbarre.litery.SecondMethodTest" time="343.134">
+    <testcase name="lit5aTest" classname="finbarre.litery.SecondMethodTest" time="0.076"/>
+    <testcase name="lit5bTest" classname="finbarre.litery.SecondMethodTest" time="4.085"/>
+    <testcase name="lit6aTest" classname="finbarre.litery.SecondMethodTest" time="0.127"/>
+    <testcase name="lit6bTest" classname="finbarre.litery.SecondMethodTest" time="11.045"/>
+    <testcase name="lit7aTest" classname="finbarre.litery.SecondMethodTest" time="0.309"/>
+    <testcase name="lit7bTest" classname="finbarre.litery.SecondMethodTest" time="44.283"/>
+    <testcase name="lit8aTest" classname="finbarre.litery.SecondMethodTest" time="1.378"/>
+    <testcase name="lit8bTest" classname="finbarre.litery.SecondMethodTest" time="279.594"/>
+    <testcase name="lit1ocenTest" classname="finbarre.litery.SecondMethodTest" time="0.0"/>
+    <testcase name="lit3ocenTest" classname="finbarre.litery.SecondMethodTest" time="0.001"/>
+    <testcase name="lit5ocenTest" classname="finbarre.litery.SecondMethodTest" time="2.101"/>
+    <testcase name="lit2ocenTest" classname="finbarre.litery.SecondMethodTest" time="0.001"/>
+    <testcase name="lit0Test" classname="finbarre.litery.SecondMethodTest" time="0.0"/>
+    <testcase name="lit1Test" classname="finbarre.litery.SecondMethodTest" time="0.0"/>
+    <testcase name="lit2Test" classname="finbarre.litery.SecondMethodTest" time="0.001"/>
+    <testcase name="lit4ocenTest" classname="finbarre.litery.SecondMethodTest" time="0.0"/>
+    <testcase name="lit2cTest" classname="finbarre.litery.SecondMethodTest" time="0.0"/>
+    <testcase name="lit3aTest" classname="finbarre.litery.SecondMethodTest" time="0.001"/>
+    <testcase name="lit3bTest" classname="finbarre.litery.SecondMethodTest" time="0.002"/>
+    <testcase name="lit4aTest" classname="finbarre.litery.SecondMethodTest" time="0.005"/>
+    <testcase name="lit4bTest" classname="finbarre.litery.SecondMethodTest" time="0.125"/>
+  </testsuite>
+</testrun>

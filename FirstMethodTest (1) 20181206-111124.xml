@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="FirstMethodTest (1)" project="litery" tests="23" started="23" failures="0" errors="0" ignored="0">
+  <testsuite name="finbarre.litery.FirstMethodTest" time="202.035">
+    <testcase name="lit5aTest" classname="finbarre.litery.FirstMethodTest" time="0.159"/>
+    <testcase name="lit5bTest" classname="finbarre.litery.FirstMethodTest" time="2.661"/>
+    <testcase name="lit6aTest" classname="finbarre.litery.FirstMethodTest" time="0.147"/>
+    <testcase name="lit7aTest" classname="finbarre.litery.FirstMethodTest" time="0.557"/>
+    <testcase name="lit8aTest" classname="finbarre.litery.FirstMethodTest" time="4.125"/>
+    <testcase name="lit9aTest" classname="finbarre.litery.FirstMethodTest" time="17.458"/>
+    <testcase name="lit9bTest" classname="finbarre.litery.FirstMethodTest" time="73.75"/>
+    <testcase name="lit1ocenTest" classname="finbarre.litery.FirstMethodTest" time="0.0"/>
+    <testcase name="lit0sdTest" classname="finbarre.litery.FirstMethodTest" time="0.0"/>
+    <testcase name="lit3ocenTest" classname="finbarre.litery.FirstMethodTest" time="0.001"/>
+    <testcase name="lit5ocenTest" classname="finbarre.litery.FirstMethodTest" time="13.774"/>
+    <testcase name="lit2ocenTest" classname="finbarre.litery.FirstMethodTest" time="0.001"/>
+    <testcase name="lit0Test" classname="finbarre.litery.FirstMethodTest" time="0.0"/>
+    <testcase name="lit1Test" classname="finbarre.litery.FirstMethodTest" time="0.0"/>
+    <testcase name="lit2Test" classname="finbarre.litery.FirstMethodTest" time="0.001"/>
+    <testcase name="lit4ocenTest" classname="finbarre.litery.FirstMethodTest" time="0.0"/>
+    <testcase name="lit10aTest" classname="finbarre.litery.FirstMethodTest" time="17.029"/>
+    <testcase name="lit10bTest" classname="finbarre.litery.FirstMethodTest" time="72.359"/>
+    <testcase name="lit2cTest" classname="finbarre.litery.FirstMethodTest" time="0.001"/>
+    <testcase name="lit3aTest" classname="finbarre.litery.FirstMethodTest" time="0.0"/>
+    <testcase name="lit3bTest" classname="finbarre.litery.FirstMethodTest" time="0.001"/>
+    <testcase name="lit4aTest" classname="finbarre.litery.FirstMethodTest" time="0.001"/>
+    <testcase name="lit4bTest" classname="finbarre.litery.FirstMethodTest" time="0.009"/>
+  </testsuite>
+</testrun>
